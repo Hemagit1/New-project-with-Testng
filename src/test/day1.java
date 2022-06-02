@@ -22,7 +22,10 @@ public class day1 {
 	{
 		System.out.println("hello2");
 	}
-	
+	public void demo3()
+	{
+		System.out.println("hello3");
+	}
 	@AfterSuite
 	public void after()
 	{
